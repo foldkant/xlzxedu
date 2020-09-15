@@ -1,0 +1,16 @@
+.card {
+ 	padding: 30px;
+ 	text-align: center;
+ 	color: #fff;
+ 	height: 70px;
+ 	line-height: 70px;
+ }
+
+ .box {
+ 	padding: 10px;
+ }
+.fly-logo {
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
